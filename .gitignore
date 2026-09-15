@@ -1,0 +1,15 @@
+# Never collect runtime state or private router backups in this repository.
+profiles/
+profiles.sh
+private/
+backups/
+*.conf
+*.log
+*.bin
+*.tar*
+*.zip
+*.b64
+.env*
+*.key
+*.pem
+.DS_Store
